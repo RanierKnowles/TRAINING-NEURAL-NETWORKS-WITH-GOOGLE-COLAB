@@ -1,1 +1,3 @@
-# TRAINING-NEURAL-NETWORKS-WITH-GOOGLE-COLAB
+# Training Neural Networks with Google Colab
+
+Ranier Knowles
